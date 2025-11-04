@@ -1,5 +1,4 @@
 # ☁️ Automated ETL Intelligence & Unified Data Cloud Framework  
-**Repository:** `automated-etl-intelligence-framework`  
 **Powered by:** Databricks | BigQuery | Power Automate | PyMC | MLflow | Supermetrics | PMG Analytics  
 
 ![ETL Cloud Framework Pipelines](docs/ETL_Cloud_Framework_Pipelines.png)
