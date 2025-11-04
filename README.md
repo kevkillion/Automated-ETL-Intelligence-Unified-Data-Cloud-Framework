@@ -38,7 +38,7 @@ By automating every stage of the data journey, it eliminates manual handling, en
 - 🌍 **Cross-channel visibility** — unify digital, offline, and business KPIs  
 - 🧮 **Model-ready data** — built for MMM, forecasting, and attribution models  
 - ⚡ **Real-time refresh matrix** — transparent tracking of all data flows  
-- 🧱 **Reusable components** — scalable across PMG client portfolios  
+- 🧱 **Reusable components** — scalable across client portfolios  
 - 🧩 **Data governance & compliance** — via Unity Catalog and Delta Lake lineage  
 - 📈 **Actionable insights** — Power BI dashboards and Teams alerts drive faster optimisation  
 
