@@ -91,15 +91,3 @@ This image visualises the entire end-to-end architecture:
 - **Sentiment Analysis Integration** — Layer customer and social data into campaign performance  
 
 ---
-
-## 👥 Contributors
-| Name | Role | Contact |
-|------|------|----------|
-| Kevin Killion | Lead Data Analyst & AI Engineer | [LinkedIn](https://linkedin.com/in/kevin-killion) |
-| PMG Analytics Team | Data Science & Automation | internal@pmg.com |
-
----
-
-## 📜 License
-MIT License © 2025 Principle Media Group  
-_“The best time to automate was yesterday. The second best time is now.”_
